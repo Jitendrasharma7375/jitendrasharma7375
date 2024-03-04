@@ -113,7 +113,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jitendrasharma7375/Jitendrasharma7375/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Jitendrasharma7375/jitendrasharma7375/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
