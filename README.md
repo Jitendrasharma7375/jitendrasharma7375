@@ -69,5 +69,9 @@
 <a href="https://twitter.com/Jitendrasharma7375"><img src="https://img.shields.io/badge/-@Jitendra Sharma-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/Jitendrasharma7375/Jitendrasharma7375/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
