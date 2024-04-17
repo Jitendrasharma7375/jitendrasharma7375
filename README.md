@@ -1,4 +1,4 @@
-[![Header](https://th.bing.com/th/id/R.16895b231b6da505e2e4acef02a3c1fe?rik=ngCtyDYUHuj4bw&pid=ImgRaw&r=0)](https://github.com/Jitendrasharma7375)
+
 <h1 align="center">Hi 👋, I'm Jitendra Sharma</h1>
 <!-- <h3 align="center">A fervent MCA student preparing to be software developer from India</h3> -->
 
