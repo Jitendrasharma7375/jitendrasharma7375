@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jitendrasharma7375&label=Profile%20views&color=9828cc&style=flat" alt="Jitendrasharma7375" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jitendrasharma7375&label=Profile%20views&color=0e75b6&style=flat" alt="Jitendrasharma7375" /> </p>
 
 
 - 🌱 I’m currently learning **MERN Stack**
