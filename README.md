@@ -6,7 +6,6 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -20,8 +19,8 @@
 - 👨‍💻 All of my projects and work are available at [My Repositories section](https://github.com/Jitendrasharma7375?tab=repositories)
 
 - 💬 Ask me about **Java, MongoDB and JavaScript**
-
-- ⚡ Fun fact **I'm a generous and creative person.**
+  
+- ⚡ Fun fact **I'm very helpfull Person**
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jitendrasharma7375" alt="Jitendrasharma7375" /></a> </p>
 
