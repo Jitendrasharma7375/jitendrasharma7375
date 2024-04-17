@@ -4,6 +4,24 @@
 
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jitendrasharma7375&label=Profile%20views&color=9828cc&style=flat" alt="Jitendrasharma7375" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate with **software developers and programmers**
+
+- 👨‍💻 All of my projects and work are available at [My Repositories section](https://github.com/Jitendrasharma7375?tab=repositories)
+
+- 💬 Ask me about **Java, MongoDB and JavaScript**
+
+- ⚡ Fun fact **I'm a generous and creative person.**
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jitendrasharma7375" alt="Jitendrasharma7375" /></a> </p>
+
+
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Jitendrasharma7375&color=blue&style=flat">
   &nbsp;
