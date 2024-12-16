@@ -38,23 +38,25 @@
 
 ### 🛠 &nbsp;Languages and Tools
 <p align="left"> 
+  <a href="https://github.com/Jitendra7375?tab=repositories" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
+  </a>   &nbsp;
+  
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> 
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  </a>
  
   <a href="https://github.com/Jitendrasharma7375/portfolio" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
   </a>   &nbsp;
 
-
   <a href="https://github.com/Jitendrasharma7375/portfolio" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
   </a>   &nbsp;
-
-  <a href="https://github.com/Jitendra7375?tab=repositories" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
-  </a>   &nbsp;
-
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> 
-  </a>   &nbsp;
+  
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -103,12 +105,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> 
+  </a>   &nbsp;
+
 </p>
 
 
