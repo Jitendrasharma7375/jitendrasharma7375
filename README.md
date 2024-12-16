@@ -37,13 +37,11 @@
 - 📫 How to reach me **jitendra.sharma7375@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
-<p align="left">  <a href="https://github.com/Jitendra7375?tab=repositories" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
-  </a>   &nbsp;
-
   
 <p align="left"> 
-
+ <a href="https://github.com/Jitendra7375?tab=repositories" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
+  </a>   &nbsp;
    
   
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
