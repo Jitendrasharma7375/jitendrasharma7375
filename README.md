@@ -37,7 +37,7 @@
 - 📫 How to reach me **jitendra.sharma7375@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
-<p align="left"> 
+<p align="left"> </p>
 
   
 <p align="left"> 
