@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jitendra Sharma</h1>
 <!-- <h3 align="center">A fervent MCA student preparing to be software developer from India</h3> -->
+<h3 align="center">Junior Software Developer</h3>
 <h3 align="center">A passionate Competitive Programmer & Web Developer from India</h3>
 
 <br/>
