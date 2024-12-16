@@ -38,7 +38,11 @@
 
 ### 🛠 &nbsp;Languages and Tools
 <p align="left"> 
-  <a href="https://github.com/Jitendra7375?tab=repositories" target="_blank" rel="noreferrer"> 
+
+  
+<p align="left"> 
+
+    <a href="https://github.com/Jitendra7375?tab=repositories" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
   </a>   &nbsp;
   
@@ -56,8 +60,6 @@
   <a href="https://github.com/Jitendrasharma7375/portfolio" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
   </a>   &nbsp;
-  
-<p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
