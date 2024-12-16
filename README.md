@@ -14,13 +14,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jitendrasharma7375&label=Profile%20views&color=0e75b6&style=flat" alt="Jitendrasharma7375" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working on **Angular and Springboot**
 
 - 👯 I’m looking to collaborate with **software developers and programmers**
 
 - 👨‍💻 All of my projects and work are available at [My Repositories section](https://github.com/Jitendrasharma7375?tab=repositories)
 
-- 💬 Ask me about **Java, MongoDB and JavaScript**
+- 💬 Ask me about **Java, Springboot and Angular**
   
 - ⚡ Fun fact **I'm very helpfull Person**
   
@@ -33,7 +33,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jitendrasharma7375?style=social">
 </p> 
 
-- 📖 I’m currently learning **Advance Java , DSA , SQL, Web Development(ReactJS), NoSQL(MongoDB)**
+- 📖 I’m currently practicing **Advance DSA and Advance Java**
 - 📫 How to reach me **jitendra.sharma7375@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
